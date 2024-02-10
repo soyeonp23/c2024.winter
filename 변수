@@ -4,7 +4,7 @@ int main(){
   printf("hello world|n");
 }
 
-
+//정수형 변수 예제
 #include <stdio.h>
 int main(void)
 {
